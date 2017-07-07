@@ -1,0 +1,29 @@
+{
+  "X":[
+    {"key":"inch","name":"英码","value":"M-UK"},
+    {"key":"inch_two","name":"尺码二","value":"X"},
+    {"key":"size","name":"尺码","value":"X"},
+    {"key":"chestmes","name":"胸围(厘米)","value":"90"},
+    {"key":"waistmes","name":"腰围(厘米)","value":"72"},
+    {"key":"hipmes","name":"臀围(厘米)","value":"98"},
+    {"key":"inch_three","name":"尺码三","value":"X"}
+  ],
+  "XL":[
+    {"key":"inch","name":"英码","value":"M-UK"},
+    {"key":"inch_two","name":"尺码二","value":"XL"},
+    {"key":"size","name":"尺码","value":"XL"},
+    {"key":"chestmes","name":"胸围(厘米)","value":"92"},
+    {"key":"waistmes","name":"腰围(厘米)","value":"94"},
+    {"key":"hipmes","name":"臀围(厘米)","value":"100"},
+    {"key":"inch_three","name":"尺码三","value":"XL"}
+  ],
+  "M":[
+    {"key":"inch","name":"英码","value":"M-UK"},
+    {"key":"inch_two","name":"尺码二","value":"M"},
+    {"key":"size","name":"尺码","value":"M"},
+    {"key":"chestmes","name":"胸围(厘米)","value":"88"},
+    {"key":"waistmes","name":"腰围(厘米)","value":"70"},
+    {"key":"hipmes","name":"臀围(厘米)","value":"96"},
+    {"key":"inch_three","name":"尺码三","value":"M"}
+  ]
+}
